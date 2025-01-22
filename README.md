@@ -72,4 +72,5 @@ This Power BI dashboard offers a detailed view of customer churn, identifying ke
 3. **Dashboard Creation:** Use the dataset to create visualizations as described in the project details.
 4. **Analysis:** Use the dashboard to analyze customer churn and develop effective retention strategies.
 
+![Churn](https://github.com/user-attachments/assets/d067acb0-dc86-43f3-b51a-c8e213ef709f)
 
